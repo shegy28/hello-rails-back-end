@@ -33,7 +33,7 @@
 Hello Rails Back End is an tutorial for rails backend api setup project.
 
 ## Front End <a name="front-end"></a>
-Click on this link to see the front end of this project [hello-react-front-end]().
+Click on this link to see the front end of this project [hello-react-front-end](https://github.com/shegy28/hello-react-front-end).
 
 ## 🛠 Built With <a name="built-with"></a>
 This app is build with Ruby on Rails and Postgresql.
